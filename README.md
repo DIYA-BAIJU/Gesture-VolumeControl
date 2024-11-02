@@ -1,4 +1,4 @@
-## volume control using Gesture
+## Volume Control using Gesture
 Basic python implementation of volume control based on hand gestures using libraries.
 
 Before running the program, open terminal and install:
